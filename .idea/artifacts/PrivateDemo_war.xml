@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PrivateDemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="PrivateDemo-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="PrivateDemo:war exploded" />
+    </root>
+  </artifact>
+</component>
